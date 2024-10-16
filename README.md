@@ -1,6 +1,7 @@
 # AdventofCode2023
 
-My solutions for AdventofCode2023
+My solutions for [AdventofCode2023](https://adventofcode.com/2023) written in Rust.
+
 Sadly I stupidly changed the solutions for part 1. All solutions provided here only contain part 2.
 
 # Running solutions
