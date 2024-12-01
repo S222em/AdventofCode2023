@@ -16,5 +16,6 @@ cargo run --release
 
 # Other years
 
+- [2024](https://github.com/S222em/AdventofCode2024)
 - [2023](https://github.com/S222em/AdventofCode2023) (current)
 - [2022](https://github.com/S222em/AdventofCode2022)
